@@ -47,9 +47,15 @@ https://www.youtube.com/watch?v=Gqlg9pXaVvM
 
 **Yes.** A clickfunnels account is required to use this plugin. If you are not already a member you can sign up for your account and transform the way you run your online business.
 
+**Sign up for ClickFunnels Now:**
+<https://clickfunnels.net/>
+
 = Do I Need a FastMember Account? =
 
 **Yes.** A FastMember account is also required to use this plugin. If you are not already a member you can sign up for your account and turn your WordPress site into powerful content protection and payment processing system.
+
+**Sign up for FastMember Here:**
+<https://fastmember.com/>
 
 == Screenshots ==
 1. Product Settings In FastMember
