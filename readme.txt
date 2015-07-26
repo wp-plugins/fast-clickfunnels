@@ -39,6 +39,8 @@ FastMember gives you unlimited flexibility in setting up your WordPress membersh
 
 **Manual Installation**: Download the Fast ClickFunnels WordPress plugin .zip file. Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation via a FTP and then activate the Plugin from Plugins page.
 
+https://www.youtube.com/watch?v=Gqlg9pXaVvM
+
 == Frequently Asked Questions ==
 
 = Do I Need a ClickFunnels Account? =
